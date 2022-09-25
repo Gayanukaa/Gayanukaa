@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Gayanukaa
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning mobile app development
-- 📫 Reach me @gayanukaamarasuriya@gmail.com
+- 👨🏻‍🎓 I'm an engineering undergraduate at University of Moratuwa
+- 📫 Reach me @gayanukaamarasuriya@gmail.com or +94766491038
 
 <!---
 Gayanukaa/Gayanukaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
