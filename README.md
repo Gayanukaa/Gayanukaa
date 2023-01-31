@@ -56,4 +56,15 @@ Currently learning a bunch of programming languages and am enthusiastic about fu
   <a href="https://github.com/Gayanukaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayanukaa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </details>
 
-
+<details>	
+  <br/>
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+    <ul>
+      <li><b>OS:</b> macOS Ventura 13.2</li>
+	    <li><b>Laptop: </b> M1 MacBook Pro 13"</li>
+      <li><b>Browser: </b> Safari</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+      <li><b>Code Editor:</b> VSCode and others</li>
+      <!--  <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li> -->
+	    <br/>
+</details>
