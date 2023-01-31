@@ -28,11 +28,20 @@ Currently learning a bunch of programming languages and am enthusiastic about fu
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+### Editors and IDEs 
+<p align="left">
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/2x/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
+<a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/visual-studio.png" width="36" height="36" alt="Visual Studio" /></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/android-studio--v3.png" width="36" height="36" alt="Android Studio" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/intellij-idea.png" width="36" height="36" alt="IntelliJ IDEA" /></a>
+<a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://netbeans.apache.org/images/apache-netbeans.svg" width="36" height="36" alt="Apache Netbeans" /></a>
+</p>
                     
 ### Socials
 <p align="left"> <a href="https://www.facebook.com/gayanuka.amarasuriya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Gayanukaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gayanuka-amarasuriya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18101297/gayanuka-amarasuriya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Gayanukaaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-###Badges
+### Badges
 
 <b>My GitHub Stats</b>
 
