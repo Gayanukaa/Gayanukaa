@@ -10,9 +10,9 @@ Engineering (UG) UoM | Software Developer
 Currently learning a bunch of programming languages and am enthusiastic about full-stack development and content creation. Making the best of my time to seek new avenues of interest and gain further experience.
 
 *   🌍  I'm based in Nugegoda
-*   🖥️  Get to know me by checking out my [profile](http://https://bio.link/gayanukaa)
+*   🖥️  Get to know me by checking out my [profile](https://bio.link/gayanukaa)
 *   ✉️  You can contact me at [gayanukaamarasuriya@gmail.com](mailto:gayanukaamarasuriya@gmail.com)
-*   🧠  I'm learning flutter and dart
+*   🧠  I'm learning React Js
 *   🤝  I'm open to collaborating on web and mobile projects to gain new experience <br>
 <!--
 <a href="https://www.github.com/Gayanukaa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Gayanukaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
