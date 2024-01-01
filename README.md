@@ -7,13 +7,13 @@ I'm Gayanuka Amarasuriya
 Engineering (UG) UoM | Software Developer
 -----------------------------------------
 
-Currently learning a bunch of programming languages and am enthusiastic about full-stack development and content creation. Making the best of my time to seek new avenues of interest and gain further experience.
+Currently learning a bunch of programming languages and am enthusiastic about mobile app development, content creation and machine learning. Making the best of my time to seek new avenues of interest and gain further experience.
 
 *   🌍  I'm based in Nugegoda
 *   🖥️  Get to know me by checking out my [profile](https://bio.link/gayanukaa)
 *   ✉️  You can contact me at [gayanukaamarasuriya@gmail.com](mailto:gayanukaamarasuriya@gmail.com)
 *   🧠  I'm learning React Js
-*   🤝  I'm open to collaborating on web and mobile projects to gain new experience <br>
+*   🤝  I'm open to collaborating on mobile and research projects to gain new experience<br>
 <!--
 <a href="https://www.github.com/Gayanukaa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Gayanukaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img src="https://komarev.com/ghpvc/?username=Gayanukaa&label=Profile%20views&color=1c1917" alt="isrealodejobi"/>
@@ -31,6 +31,7 @@ Currently learning a bunch of programming languages and am enthusiastic about fu
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/2/21/20170128174109%21Matlab_Logo.png" width="36" height="36" alt="Matlab"/></a>
 </p>
 
 ### 👨🏻‍💻 Editors and IDEs 
@@ -39,7 +40,7 @@ Currently learning a bunch of programming languages and am enthusiastic about fu
 <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/visual-studio.png" width="36" height="36" alt="Visual Studio" /></a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/android-studio--v3.png" width="36" height="36" alt="Android Studio" /></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/intellij-idea.png" width="36" height="36" alt="IntelliJ IDEA" /></a>
-<a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://netbeans.apache.org/images/apache-netbeans.svg" width="36" height="36" alt="Apache Netbeans" /></a>
+<a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" width="36" height="36" alt="Apache Netbeans" /></a>
 </p>
                     
 ### 🌏 Socials
@@ -59,13 +60,12 @@ Currently learning a bunch of programming languages and am enthusiastic about fu
 
 <details>	
   <br/>
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b>⚙️ What I use to get stuff done</b></summary>
     <ul>
-      <li><b>OS:</b> macOS Ventura 13.2</li>
+      <li><b>OS:</b> macOS Sonoma 14.2.1</li>
 	    <li><b>Laptop: </b> M1 MacBook Pro 13"</li>
       <li><b>Browser: </b> Safari</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
       <li><b>Code Editor:</b> VSCode and others</li>
-      <!--  <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li> -->
 	    <br/>
 </details>
