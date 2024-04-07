@@ -1,18 +1,24 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<!--<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>-->
 
+![header](https://capsule-render.vercel.app/api?type=waving&width=1500&height=300&color=0:201996,100:0078ff&text=Gayanuka%20Amarasuriya&textBg=false&fontSize=65&fontAlign=50&fontAlignY=40&rotate=0&stroke=000000&desc=Electrical%20Engineering%20(UG)%20@University%20of%20Moratuwa%20|%20Developer&fontColor=ffff&strokeWidth=0.3)
 
+<!--
 I'm Gayanuka Amarasuriya
 ============================================================================================================================================
 
 Electrical Engineering (UG) @University of Moratuwa | Developer
------------------------------------------
+<p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0092ff&random=false&width=435&lines=Mobile+App+Developement;Machine+Learning;Content+Creation"></img>
+</p>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=0092ff&height=3) -->
 
 Currently learning a bunch of programming languages and am enthusiastic about app development, content creation and machine learning. Making the best of my time to seek new avenues of interest and gain further experience.
 
 *   🌍  I'm based in Nugegoda, Sri Lanka
 *   🖥️  Get to know me by checking out my [profile](https://bio.link/gayanukaa)
 *   ✉️  You can contact me at [gayanukaamarasuriya@gmail.com](mailto:gayanukaamarasuriya@gmail.com)
-*   🧠  I'm learning C++
+*   🧠  I'm learning Spring Boot
 *   🤝  I'm open to collaborating on developement and research projects to gain new experience<br>
 <!--
 <a href="https://www.github.com/Gayanukaa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Gayanukaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
