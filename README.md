@@ -25,28 +25,34 @@ Currently learning a bunch of programming languages and am enthusiastic about ap
 <img src="https://komarev.com/ghpvc/?username=Gayanukaa&label=Profile%20views&color=1c1917" alt="isrealodejobi"/>
 -->
 	
-### 🔨 Skills 
+### 🔨 Languages and Frameworks 
 <p align="left">
 	<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 	<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 	<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 	<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-	<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/2/21/20170128174109%21Matlab_Logo.png" width="36" height="36" alt="Matlab"/></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-	<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-	<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/mongodb-colored.svg" alt="mongodb" width="32" height="36"/> </a>
+	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="34" height="34"/> </a>
 </p>
 
-### 👨🏻‍💻 Editors and IDEs 
+### 👨🏻‍💻 Tools and Editors
+
 <p align="left">
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+	<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a>
 	<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/2x/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
 	<a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/visual-studio.png" width="36" height="36" alt="Visual Studio" /></a>
 	<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/android-studio--v3.png" width="36" height="36" alt="Android Studio" /></a>
+	<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/2/21/20170128174109%21Matlab_Logo.png" width="36" height="36" alt="Matlab"/></a>
 	<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/intellij-idea.png" width="36" height="36" alt="IntelliJ IDEA" /></a>
 	<a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" width="36" height="36" alt="Apache Netbeans" /></a>
+	<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+	<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
 ### 🌏 Socials
@@ -62,14 +68,20 @@ Currently learning a bunch of programming languages and am enthusiastic about ap
 <b>My GitHub Stats</b> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px>
 
 <details>
+	  <br/>
   <summary><b>:zap: GitHub Data</b></summary>
-  <a href="http://www.github.com/Gayanukaa"><img src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gayanukaa's GitHub stats" /></a>
-</details>  
+	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayanukaa&show_icons=true&locale=en&theme=holi" alt="gayanukaa" /></p>
+  <!--<a href="http://www.github.com/Gayanukaa"><img src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gayanukaa's GitHub stats" /></a>
+</details>  -->
+</details>
 <details>
+	  <br/>
   <summary><b>:zap: Top Languages - Public Repositories</b></summary>
-  <a href="https://github.com/Gayanukaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayanukaa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+	<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanukaa&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="gayanukaa" /></p>
+	 <!--<a href="https://github.com/Gayanukaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayanukaa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 </details>
 
+<!--
 <details>	
   <br/>
   <summary><b>⚙️ What I use to get stuff done</b></summary>
@@ -81,3 +93,4 @@ Currently learning a bunch of programming languages and am enthusiastic about ap
       <li><b>Code Editor:</b> VSCode and others</li>
 	    <br/>
 </details>
+-->
