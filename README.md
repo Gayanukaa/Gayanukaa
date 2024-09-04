@@ -66,7 +66,6 @@ Currently learning a bunch of programming languages and am enthusiastic about ap
 
 <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px> <b>My GitHub Stats</b> 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="gayanukaa" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="gayanukaa" /></p>
 
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanukaa&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="gayanukaa" />
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanukaa&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="gayanukaa" /></p>
