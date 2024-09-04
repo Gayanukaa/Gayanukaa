@@ -16,10 +16,10 @@ Electrical Engineering (UG) @University of Moratuwa | Developer
 Currently learning a bunch of programming languages and am enthusiastic about app development, content creation and machine learning. Making the best of my time to seek new avenues of interest and gain further experience.
 
 *   🌍  I'm based in Nugegoda, Sri Lanka
-*   🖥️  Get to know me by checking out my [profile](https://bio.link/gayanukaa)
+*   🖥️  Get to know me by checking out my [website](https://gayanukaa.github.io/).
 *   ✉️  You can contact me at [gayanukaamarasuriya@gmail.com](mailto:gayanukaamarasuriya@gmail.com)
-*   🧠  I'm learning Spring Boot
-*   🤝  I'm open to collaborating on developement and research projects to gain new experience<br>
+*   🧠  I'm learning Deep Learning.
+*   🤝  I'm open to collaborating on developement and research projects to gain new experience.<br>
 <!--
 <a href="https://www.github.com/Gayanukaa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Gayanukaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img src="https://komarev.com/ghpvc/?username=Gayanukaa&label=Profile%20views&color=1c1917" alt="isrealodejobi"/>
@@ -64,36 +64,9 @@ Currently learning a bunch of programming languages and am enthusiastic about ap
 	<a href="https://www.twitter.com/Gayanukaaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
+<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px> <b>My GitHub Stats</b> 
 
-<b>My GitHub Stats</b> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="gayanukaa" />
 
-<details>
-	  <br/>
-  <summary><b>:zap: GitHub Data</b></summary>
-<!-- 	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayanukaa&show_icons=true&locale=en&theme=holi" alt="gayanukaa" /></p> -->
-	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="gayanukaa" /></p>
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanukaa&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="gayanukaa" />
 
-
-  <!--<a href="http://www.github.com/Gayanukaa"><img src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gayanukaa's GitHub stats" /></a>
-</details>  -->
-</details>
-<details>
-	  <br/>
-  <summary><b>:zap: Top Languages - Public Repositories</b></summary>
-	<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanukaa&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="gayanukaa" /></p>
-	 <!--<a href="https://github.com/Gayanukaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayanukaa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
-</details>
-
-<!--
-<details>	
-  <br/>
-  <summary><b>⚙️ What I use to get stuff done</b></summary>
-    <ul>
-      <li><b>OS:</b> macOS Sonoma 14.2.1</li>
-	    <li><b>Laptop: </b> M1 MacBook Pro 13"</li>
-      <li><b>Browser: </b> Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-      <li><b>Code Editor:</b> VSCode and others</li>
-	    <br/>
-</details>
--->
