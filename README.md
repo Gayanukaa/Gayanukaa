@@ -13,13 +13,14 @@ Electrical Engineering (UG) @University of Moratuwa | Developer
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0092ff&height=3) -->
 
-Currently learning a bunch of programming languages and am enthusiastic about app development, content creation and machine learning. Making the best of my time to seek new avenues of interest and gain further experience.
+I'm a passionate individual currently diving deep into various programming languages and focused on **app development**, **content creation**, and **machine learning**. I strive to make the most of my time by exploring new avenues of interest and gaining valuable experience.
 
 *   🌍  I'm based in Nugegoda, Sri Lanka
 *   🖥️  Get to know me by checking out my [website](https://gayanukaa.github.io/).
 *   ✉️  You can contact me at [gayanukaamarasuriya@gmail.com](mailto:gayanukaamarasuriya@gmail.com)
-*   🧠  I'm learning Deep Learning.
+*   🧠  I'm expanding my knowledge in **Deep Learning**
 *   🤝  I'm open to collaborating on developement and research projects to gain new experience.<br>
+
 <!--
 <a href="https://www.github.com/Gayanukaa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Gayanukaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img src="https://komarev.com/ghpvc/?username=Gayanukaa&label=Profile%20views&color=1c1917" alt="isrealodejobi"/>
@@ -35,7 +36,11 @@ Currently learning a bunch of programming languages and am enthusiastic about ap
 	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/mongodb-colored.svg" alt="mongodb" width="32" height="36"/> </a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="34" height="34"/> </a>
+	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32"/> </a>
+	<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="34" height="34" alt="PyTorch" /></a>
+	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="scikit-learn" /></a>
+	<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://azure.microsoft.com/svghandler/azure-logo.svg" width="32" height="32" alt="Azure" /></a>
+	<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" width="36" height="36" alt="OpenCV" /></a>
 </p>
 
 ### 👨🏻‍💻 Tools and Editors
