@@ -74,3 +74,5 @@ I'm a passionate individual currently diving deep into various programming langu
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="gayanukaa" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanukaa&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="gayanukaa" /></p>
+
+![](https://hit.yhype.me/github/profile?user_id=91547712)
