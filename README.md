@@ -15,17 +15,20 @@ Electrical Engineering (UG) @University of Moratuwa | Developer
 
 I'm a passionate individual currently diving deep into various programming languages and focused on **app development**, **content creation**, and **machine learning**. I strive to make the most of my time by exploring new avenues of interest and gaining valuable experience.
 
+<!--
 *   🌍  I'm based in Nugegoda, Sri Lanka
 *   🖥️  Get to know me by checking out my [website](https://gayanukaa.github.io/).
 *   ✉️  You can contact me at [gayanukaamarasuriya@gmail.com](mailto:gayanukaamarasuriya@gmail.com)
 *   🧠  I'm expanding my knowledge in **Deep Learning**
 *   🤝  I'm open to collaborating on developement and research projects to gain new experience.<br>
-
+ -->
+ 
 <!--
 <a href="https://www.github.com/Gayanukaa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Gayanukaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img src="https://komarev.com/ghpvc/?username=Gayanukaa&label=Profile%20views&color=1c1917" alt="isrealodejobi"/>
 -->
-	
+
+<!--
 ### 🔨 Languages and Frameworks 
 <p align="left">
 	<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -68,11 +71,14 @@ I'm a passionate individual currently diving deep into various programming langu
 	<a href="https://www.stackoverflow.com/users/18101297/gayanuka-amarasuriya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 	<a href="https://www.twitter.com/Gayanukaaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
-
+ -->
+ <!--
 <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px> <b>My GitHub Stats</b> 
-
+ -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="gayanukaa" /></p>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanukaa&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="gayanukaa" /></p>
+-->
 
 ![](https://hit.yhype.me/github/profile?user_id=91547712)
