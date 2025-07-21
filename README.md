@@ -1,19 +1,14 @@
-<!--<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>-->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&width=1500&height=300&color=0:201996,100:0078ff&text=Gayanuka%20Amarasuriya&textBg=false&fontSize=65&fontAlign=50&fontAlignY=40&rotate=0&stroke=000000&desc=Electrical%20Engineering%20(UG)%20@University%20of%20Moratuwa%20|%20Developer&fontColor=ffff&strokeWidth=0.3)
 
-<!--
-I'm Gayanuka Amarasuriya
-============================================================================================================================================
+With a background in Electrical Engineering I'm passionate about **Computer Vision** and **Multimodal Large Language Models**. Whether it’s building applications or research, I’m always looking for the next challenge. 
 
-Electrical Engineering (UG) @University of Moratuwa | Developer
-<p align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0092ff&random=false&width=435&lines=Mobile+App+Developement;Machine+Learning;Content+Creation"></img>
-</p>
+You can explore more of what I’m working on in my [projects📂](https://gayanukaa.github.io/projects/). </br>
+**I can help you out with –**
+- Deep learning & Computer vision
+- Agentic chat systems
+- Multimodal AI integration
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0092ff&height=3) -->
-
-I'm a passionate individual currently diving deep into various programming languages and focused on **app development**, **content creation**, and **machine learning**. I strive to make the most of my time by exploring new avenues of interest and gaining valuable experience.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="gayanukaa" /></p>
 
 <!--
 *   🌍  I'm based in Nugegoda, Sri Lanka
@@ -28,41 +23,7 @@ I'm a passionate individual currently diving deep into various programming langu
 <img src="https://komarev.com/ghpvc/?username=Gayanukaa&label=Profile%20views&color=1c1917" alt="isrealodejobi"/>
 -->
 
-<!--
-### 🔨 Languages and Frameworks 
-<p align="left">
-	<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-	<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-	<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-	<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/mongodb-colored.svg" alt="mongodb" width="32" height="36"/> </a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32"/> </a>
-	<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="34" height="34" alt="PyTorch" /></a>
-	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="scikit-learn" /></a>
-	<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://azure.microsoft.com/svghandler/azure-logo.svg" width="32" height="32" alt="Azure" /></a>
-	<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" width="36" height="36" alt="OpenCV" /></a>
-</p>
-
-### 👨🏻‍💻 Tools and Editors
-
-<p align="left">
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-	<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a>
-	<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/2x/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
-	<a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/visual-studio.png" width="36" height="36" alt="Visual Studio" /></a>
-	<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/android-studio--v3.png" width="36" height="36" alt="Android Studio" /></a>
-	<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/2/21/20170128174109%21Matlab_Logo.png" width="36" height="36" alt="Matlab"/></a>
-	<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/intellij-idea.png" width="36" height="36" alt="IntelliJ IDEA" /></a>
-	<a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" width="36" height="36" alt="Apache Netbeans" /></a>
-	<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-	<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-                    
+<!--                  
 ### 🌏 Socials
 <p align="left"> 
 	<a href="https://www.facebook.com/gayanuka.amarasuriya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
@@ -75,8 +36,160 @@ I'm a passionate individual currently diving deep into various programming langu
  <!--
 <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px> <b>My GitHub Stats</b> 
  -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="gayanukaa" /></p>
-
+<section className="mb-16">
+  <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-8">
+    Developer Stack
+  </h2>
+  <div className="mb-8">
+    <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">
+      Languages
+    </h3>
+    <div className="flex flex-wrap gap-3">
+      <img
+	src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00&style=for-the-badge"
+	alt="Python"
+      />
+      <img
+	src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+	alt="Java"
+      />
+      <img
+	src="https://img.shields.io/badge/Matlab-%23FFB900.svg?logo=mathworks&logoColor=white&style=for-the-badge"
+	alt="Matlab"
+      />
+      <img
+	src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge"
+	alt="Dart"
+      />
+      <img
+	src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge"
+	alt="C++"
+      />
+    </div>
+  </div>
+  <div className="mb-8">
+    <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">
+      Frameworks
+    </h3>
+    <div className="flex flex-wrap gap-3 mb-4">
+      <img
+	src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white&style=for-the-badge"
+	alt="PyTorch"
+      />
+      <img
+	src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white&style=for-the-badge"
+	alt="TensorFlow"
+      />
+      <img
+	src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=FFFFFF&style=for-the-badge"
+	alt="scikit-learn"
+      />
+      <img
+	src="https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv&logoColor=white&style=for-the-badge"
+	alt="OpenCV"
+      />
+      <img
+	src="https://img.shields.io/badge/LangChain-%23000000.svg?logo=langchain&logoColor=white&style=for-the-badge"
+	alt="LangChain"
+      />
+      <img
+	src="https://img.shields.io/badge/CrewAI-E53935?style=for-the-badge"
+	alt="CrewAI"
+      />
+    </div>
+    <div className="flex flex-wrap gap-3">
+      <img
+	src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white&style=for-the-badge"
+	alt="Flutter"
+      />
+      <img
+	src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge"
+	alt="Spring"
+      />
+      <img
+	src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"
+	alt="MongoDB"
+      />
+      <img
+	src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white&style=for-the-badge"
+	alt="SQLite"
+      />
+      <img
+	src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"
+	alt="FastAPI"
+      />
+    </div>
+  </div>
+  <div className="mb-8">
+    <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">
+      DevOps
+    </h3>
+    <div className="flex flex-wrap gap-3">
+      <img
+	src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge"
+	alt="Git"
+      />
+      <img
+	src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFFFFF&style=for-the-badge"
+	alt="GitHub"
+      />
+      <img
+	src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"
+	alt="Postman"
+      />
+      <img
+	src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=azure-devops&logoColor=white&style=for-the-badge"
+	alt="Azure"
+      />
+      <img
+	src="https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white&style=for-the-badge"
+	alt="Conda"
+      />
+    </div>
+  </div>
+  <div className="mb-8">
+    <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">
+      Tools
+    </h3>
+    <div className="flex flex-wrap gap-3 mb-4">
+      <img
+	src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge"
+	alt="Figma"
+      />
+      <img
+	src="https://img.shields.io/badge/Lightroom-31A8FF?logo=adobelightroom&logoColor=white&style=for-the-badge"
+	alt="Lightroom"
+      />
+      <img
+	src="https://img.shields.io/badge/SolidWorks-FF0000?logo=solidworks&logoColor=white&style=for-the-badge"
+	alt="SolidWorks"
+      />
+      <img
+	src="https://img.shields.io/badge/LabVIEW-FFDB00?logo=labview&logoColor=black&style=for-the-badge"
+	alt="LabVIEW"
+      />
+      <img
+	src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge"
+	alt="Jira"
+      />
+    </div>
+    <div className="flex flex-wrap gap-3">
+      <img
+	src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"
+	alt="Linux"
+      />
+      <img
+	src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge"
+	alt="Arduino"
+      />
+      <img
+	src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge"
+	alt="Raspberry Pi"
+      />
+    </div>
+  </div>
+</section>
+	
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanukaa&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="gayanukaa" /></p>
 -->
