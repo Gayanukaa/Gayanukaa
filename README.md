@@ -2,14 +2,15 @@
 
 With a background in Electrical Engineering I'm passionate about **Computer Vision** and **Multimodal Large Language Models**. Whether it’s building applications or research, I’m always looking for the next challenge. 
 
-You can explore more of what I’m working on in my [projects📂](https://gayanukaa.github.io/projects/). </br>
+You can explore more of what I’m working on in my [projects📂](https://gayanukaa.com/projects) </br>
 **I can help you out with –**
 - Deep learning & Computer vision
 - Agentic chat systems
 - Multimodal AI integration
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gayanukaa&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="gayanukaa" /></p>
-
+-->
 <!--
 *   🌍  I'm based in Nugegoda, Sri Lanka
 *   🖥️  Get to know me by checking out my [website](https://gayanukaa.github.io/).
@@ -37,9 +38,6 @@ You can explore more of what I’m working on in my [projects📂](https://gayan
 <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px> <b>My GitHub Stats</b> 
  -->
 <section className="mb-16">
-  <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-8">
-    Developer Stack
-  </h2>
   <div className="mb-8">
     <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">
       Languages
