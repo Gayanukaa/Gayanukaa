@@ -2,7 +2,7 @@
 
 With a background in Electrical Engineering I'm passionate about **Computer Vision** and **Multimodal Large Language Models**. Whether it’s building applications or research, I’m always looking for the next challenge. 
 
-You can explore more of what I’m working on in my [projects📂](https://gayanukaa.com/projects) </br>
+You can explore more of what I’m working on in my [projects](https://gayanukaa.com/projects)📂</br>
 **I can help you out with –**
 - Deep learning & Computer vision
 - Agentic chat systems
@@ -192,4 +192,4 @@ You can explore more of what I’m working on in my [projects📂](https://gayan
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanukaa&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="gayanukaa" /></p>
 -->
 
-![](https://hit.yhype.me/github/profile?user_id=91547712)
+![](https://hit.yhype.me/github/profile?account_id=91547712)
